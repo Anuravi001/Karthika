@@ -1,4 +1,4 @@
-class Karthika
+class karthika
 {
 
    /* This is my first java program.
